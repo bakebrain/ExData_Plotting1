@@ -1,5 +1,3 @@
-setwd('/Users/bakebrain/src/ExData_Plotting1/')
-
 # after reading in the whole dataset once we get only the rows we need
 
 #> min(which(data$Date == "31/1/2007"))
